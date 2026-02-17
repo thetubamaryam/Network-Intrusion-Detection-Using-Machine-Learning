@@ -1,4 +1,4 @@
-Network Intrusion Detection Using Machine Learning
+**Network Intrusion Detection Using Machine Learning**
 
 📌 Project Description
 
